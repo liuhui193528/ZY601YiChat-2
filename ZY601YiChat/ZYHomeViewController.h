@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ZYHomeViewController.h
 //  ZY601YiChat
 //
 //  Created by broncho on 16/3/7.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ZYHomeViewController : UIViewController
 
-//tabbar方法
-+(void)goMain;
 @end
-
